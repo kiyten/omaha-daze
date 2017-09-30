@@ -1126,3 +1126,292 @@ Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.
 Processing by PagesController#explore as HTML
   Rendered pages/explore.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 40ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 17:30:36 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 3849ms (Views: 3839.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-cb302c7642ff5e04e6ef4e9a397c1a5e635d3d55a40a84d07d5d666ff6948be4.css?body=1" for 174.19.64.126 at 2017-09-30 17:30:40 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 17:34:32 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 224ms (Views: 215.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 17:43:23 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 363ms (Views: 349.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 17:58:19 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 1788ms (Views: 1780.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-cf7306ded7614f8496ad61fbc4b3f90269cb778409373d457808337b027d2cb8.css?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-2eb697f62b587bb786ff940d82dd4be88cdeeaf13ca128e3da3850c5fcaec301.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-6ad2488465135ab731a045a8ebbe3ea2fc501aed286042496eda1664fdd07ba9.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-742145c5bb847aafdadc6e339be795628f8bc25f177e851f03a8c42278eb0312.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-126ac9bf0e7f2d8568f8da3a00fd5f0fac6eae0946331003370161fbf8d7975e.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-e47323f363ceb3dc0bdbce05e36e709ed428e339833a41140a85cb0af24b8127.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-561cca1cbaf67474e01e9536f106bad541594860a6df997004591c1c1957a147.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-3e78617ade5663314b7ee0ea10375a5b34d59ffbade44939e3f2a4e4ef2019b3.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-5bf7078b682f8b131332eefa46b45fa5eff2eca745fc0d03e2991450888f7c28.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-6d6f1a7fc5c8aabf3547fa1b794fab6268f54bc55ad815e55873c71f52513517.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-969f3c5f48cdf1e439c7fa1154c13b948715f5c689f87837c0b64521d3b46ef6.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-05afb177e08f98997ccfc84fa08a215e4b27d48d5fe4d049080675e9dffd8199.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-0aa93860b59fe7393f1dd490f54b3cb994f9d6155adffce034d4e14ae361b041.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e51550282c421312c6447af9917d47e382e37aadb367e477e11335ba667438d4.js?body=1" for 174.19.64.126 at 2017-09-30 17:58:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:14:55 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 358ms (Views: 349.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:15:02 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 54ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:15:10 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 61ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:19:28 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 261ms (Views: 252.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:22:49 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 249ms (Views: 240.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:26:45 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 55ms (Views: 54.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:26:48 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.1ms)
+Completed 200 OK in 63ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:27:02 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 43ms (Views: 42.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:30:08 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 252ms (Views: 243.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:36:22 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 252ms (Views: 242.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:37:19 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 250ms (Views: 241.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:42:10 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_nav.html.erb (0.6ms)
+Completed 200 OK in 307ms (Views: 297.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:48:26 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 257ms (Views: 248.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:55:37 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 230ms (Views: 221.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:16 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 53.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:19 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 61ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:21 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:27 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 34ms (Views: 33.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:30 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 46ms (Views: 45.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:31 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 65ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:32 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 46ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:34 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:57:36 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 18:59:40 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 174.19.64.126 at 2017-09-30 19:01:42 +0000
+Cannot render console from 174.19.64.126! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 35ms (Views: 34.4ms | ActiveRecord: 0.0ms)
