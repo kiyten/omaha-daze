@@ -1,6 +1,8 @@
 <!-- dynamic nav bar -->
 <% if user_signed_in? %>
-  <% render '/layouts/nav_guest' %>
-  
+  <%= render '/layouts/nav_user' %>
+<% else %>
+   <%= render '/layouts/nav_guest' %>
+<% end %>   
 
 
